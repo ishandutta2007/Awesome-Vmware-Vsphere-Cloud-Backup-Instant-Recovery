@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Vmware-Vsphere-Cloud-Backup-Instant-Recovery/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Vmware-Vsphere-Cloud-Backup-Instant-Recovery?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Vmware-Vsphere-Cloud-Backup-Instant-Recovery/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Vmware-Vsphere-Cloud-Backup-Instant-Recovery?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Vmware-Vsphere-Cloud-Backup-Instant-Recovery/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Vmware-Vsphere-Cloud-Backup-Instant-Recovery?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Vmware-Vsphere-Cloud-Backup-Instant-Recovery/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,9 +63,9 @@ Commercial VMware vSphere backup and recovery software ranked descending by comp
 
 ## 🟩 Open-Source Backup Software 🔓
 
-Self-hosted, transparent, and community-audited tools capable of VMware vSphere VM backup, VMDK snapshot extraction, or host-level data protection. Sorted descending by GitHub star count ⭐.
+Self-hosted, transparent, and community-audited tools capable of VMware vSphere VM backup, VMDK snapshot extraction, or host-level data protection. Sorted descending by GitHub Stars_Count ⭐.
 
-| Project | GitHub Stars | Primary Stack & License | VMware Integration & Instant Recovery Capability |
+| Project | GitHub_Stars | Primary Stack & License | VMware Integration & Instant Recovery Capability |
 | :--- | :--- | :--- | :--- |
 | **[Restic](https://github.com/restic/restic)** 🛡️ | [![Restic Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Go • BSD-2-Clause | Cryptographically secure, deduplicated backup program. Protects VMware guests at file/OS level and VMDK raw image snapshots; mounts repositories via FUSE for fast file extraction. ⚡ |
 | **[Kopia](https://github.com/kopia/kopia)** 💎 | [![Kopia Stars](https://img.shields.io/github/stars/kopia/kopia?style=social&color=white)](https://github.com/kopia/kopia/stargazers) | Go • Apache-2.0 | High-performance fast backup tool with client-side end-to-end encryption and deduplication. Features GUI/CLI, multi-cloud repository targets (S3/Wasabi/Azure/GCS), and rapid directory snapshot recovery. ☁️ |
